@@ -1,6 +1,9 @@
 # Minesweeper
 Minesweeper game in Java with a Client-Server Architecture.
 
+## How to run:
+Download the Server.jar and Minesweeper.jar files. Run Server.jar first using command `java -jar Server.jar`. Once the server is running, run `Minesweeper.jar` using command `java -jar Minesweeper.jar`.
+
 ## Design:
 The application is a Maven project loosely following the MVC architecture.
 All the Swing GUI components are in the `gui` package.
